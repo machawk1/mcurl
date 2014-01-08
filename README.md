@@ -4,7 +4,7 @@ mcurl - Memento wrapper for cURL
 Download
 -------------------------
 
-Most updated version: [Download](http://www.cs.odu.edu/~aalsum/mcurl/ Download)
+Most updated version: [Download](http://www.cs.odu.edu/~aalsum/mcurl/)
 
 Environment setup
 -------------------------
