@@ -4,7 +4,7 @@ mcurl - Memento wrapper for cURL
 Download
 -------------------------
 
-Most updated version: [Download](http://search.cpan.org/dist/HTML-Parser/ Download)
+Most updated version: [Download](http://www.cs.odu.edu/~aalsum/mcurl/ Download)
 
 Environment setup
 -------------------------
